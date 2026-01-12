@@ -1,4 +1,4 @@
-# C++ Practice Programs
+# C++ & PythonPractice Programs
 
 This repository contains my C++ learning journey, starting from basics to advanced topics.  
 Each folder represents a different level of problems:
